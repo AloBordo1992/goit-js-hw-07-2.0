@@ -34,3 +34,5 @@ const onContainerClick = (e) => {
 };
 
 galleryContainerEl.addEventListener("click", onContainerClick);
+
+// =====================================================================================
